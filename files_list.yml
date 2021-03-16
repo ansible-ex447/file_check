@@ -1,8 +1,6 @@
 ---
 files:
-  - name: /tmp/abc.txt
-    checksum: "da39a3ee5e6b4b"
-  - name: /tmp/abc2.txt
-    checksum: "da39a3eerb6a"
-  - name: /tmp/abc3.txt
-    checksum: "da39a3ee5e6b4b0d"
+  - name: /tmp/test1.txt
+    checksum: "d4b8d92db792bf850193e34301d9a79842b33d85"
+  - name: /tmp/test2.txt
+    checksum: "03521cb4c12f100261edbc23718beb1c03b19989" 
