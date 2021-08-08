@@ -1,0 +1,5 @@
+---
+  - name: playbook for file checksum
+    hosts: localhost
+    become: yes
+    tasks:
